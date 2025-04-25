@@ -50,7 +50,7 @@ python app.py
 ### 실행결과
 현재 만들어둔 계정
 1. id:root, pw:sunrin
-2. id:roo2, pw:sunrin2
+2. id:root2, pw:sunrin2
 <img width="396" alt="화면 캡처 2025-04-25 230339" src="https://github.com/user-attachments/assets/5f3e0c48-6a3f-4e6e-8b63-a1dd956ed809" />
 <img width="395" alt="KakaoTalk_20250421_203007061" src="https://github.com/user-attachments/assets/66943eaa-59d7-4752-b137-3ea97aaed049" />
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/dd07569c-8887-41b5-b4fa-6a78a8360789" />
