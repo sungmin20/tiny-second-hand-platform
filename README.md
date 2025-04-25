@@ -14,8 +14,8 @@ Python 가상환경 설정부터 서버 실행까지 아래 가이드를 따라 
 ### 1. 압축 파일 풀기
 
 ```bash
-tar -xvf tiny_market.tar
-cd tiny_market
+tar -xvf secure.tar
+cd secure
 ```
 ### 2. 가상환경 생성 및 활성화 (Python 3.8 이상 권장)
 ```bash
