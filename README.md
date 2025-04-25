@@ -50,6 +50,12 @@ python app.py
 ### 실행결과
 <img width="396" alt="화면 캡처 2025-04-25 230339" src="https://github.com/user-attachments/assets/5f3e0c48-6a3f-4e6e-8b63-a1dd956ed809" />
 <img width="395" alt="KakaoTalk_20250421_203007061" src="https://github.com/user-attachments/assets/66943eaa-59d7-4752-b137-3ea97aaed049" />
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/dd07569c-8887-41b5-b4fa-6a78a8360789" />
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/6926838c-0469-4c5e-807a-71ed8a6ff587" />
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/01d53e46-67c4-4b57-8646-38ba29127097" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/700c4b44-b092-4cc4-8c4f-9fc8fe69e0fd" />
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/a41c0e87-2043-4263-bd5e-2298f05e88f6" />
+
 
 
 
