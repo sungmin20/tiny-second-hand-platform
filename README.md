@@ -42,8 +42,8 @@ flask db upgrade
 
 ### 1. Flask 실행
 ```bash
-export FLASK_APP=app.py      # Windows: set FLASK_APP=app.py
-export FLASK_ENV=development # 개발모드
+export FLASK_APP=app.py      
+export FLASK_ENV=development 
 python app.py
 ```
 
